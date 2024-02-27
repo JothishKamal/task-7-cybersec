@@ -73,8 +73,9 @@ Replacing spaces with 0 and tabs with 1 and grouping 8 bits of Binary, we get so
 Running this through a Binary to Text Translator, we capture the flag:
 <p align="center" width="100%">
     <img src="https://github.com/JothishKamal/task-7-cybersec/blob/main/images/DecryptedTextASCII.png?raw=true">
-</p>
+</p>  
+
 ## Steps Taken:
 1. Replacing space with 0 and tabs with 1.
-2. Delimiting 8 bits of zeroes and ones with spaces.
+2. Grouping 8 bits of Binary and delimiting them with spaces.
 3. Running them through a Binary to Text Translator and capturing the flag.
