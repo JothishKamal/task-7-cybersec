@@ -28,6 +28,7 @@ Contents of flag.jpg:                                                           
     <img src="https://github.com/JothishKamal/task-7-cybersec/blob/main/images/flag.jpg?raw=true">
 </p>  
 ## Steps Taken:
+
 1. Downloading and installing Wireshark.
 2. Understanding the colors of each packet in Wireshark.
 3. Looking for hidden data in the .pcap file.
