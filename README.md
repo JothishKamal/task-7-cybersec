@@ -27,6 +27,8 @@ In packet 24, the user is uploading a JPEG file(flag.jpg) through the HTTP proto
 Contents of flag.jpg:                                                                                                                               <p align="center" width="100%">
     <img src="https://github.com/JothishKamal/task-7-cybersec/blob/main/images/flag.jpg?raw=true">
 </p>  
+  
+  
 ## Steps Taken:
 
 1. Downloading and installing Wireshark.
